@@ -37,7 +37,9 @@ const Home = () => {
         </h1>
       </div>
 
-      <img src={data.imageURL} height="500px" />
+      <div id="craousel">
+        <img src={data.imageURL} height="500px" />
+      </div>
       <button onClick={() => navigate("/about")}>Go to About Page</button>
       <div id="banner"></div>
     </>
