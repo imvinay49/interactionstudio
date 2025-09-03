@@ -51,7 +51,7 @@ const Home = () => {
         data-bs-ride="carousel"
       >
         <div class="carousel-inner">
-          <div class="carousel-item active">
+          <div class="carousel-item">
             <img
               src="https://www.northerntrailoutfitters.com/on/demandware.static/-/Library-Sites-NTO-SFRASharedLibrary/default/dwd9df3c9c/images/homepage/home-promo-01-800-600.png"
               class="d-block w-100"
